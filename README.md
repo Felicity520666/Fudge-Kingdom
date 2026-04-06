@@ -1,5 +1,4 @@
 # Fudge Kingdom
-## Fudge Fudge Fudge
 
 An informative and sweet visual novel made with Ren'Py 🤤!
 
@@ -9,7 +8,7 @@ An informative and sweet visual novel made with Ren'Py 🤤!
 
 ## About The Game
 
-Welcome to Fudge Kingdom! This is a project made all about different kinds of fudge!
+Welcome to Fudge Kingdom! This is a project made all about different kinds of fudge! (very informative)
 
 ## Features
 
@@ -19,6 +18,8 @@ Welcome to Fudge Kingdom! This is a project made all about different kinds of fu
 - Built with Ren'Py 
 
 ## Run Locally
+
+(I would recommend just playing online on itch.io, but here are the instructions if you want to run it locally:)
 
 1. Install Ren'Py from <https://www.renpy.org/>
 2. Open the Ren'Py launcher
