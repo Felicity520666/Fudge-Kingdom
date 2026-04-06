@@ -150,7 +150,7 @@ define config.save_directory = "FudgeKingdom-1765118527"
 ##
 ## The icon displayed on the taskbar or dock.
 
-define config.window_icon = "gui/window_icon.png"
+define config.window_icon = "images/hi.png"
 
 
 ## Build configuration #########################################################
