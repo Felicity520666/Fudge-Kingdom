@@ -203,6 +203,8 @@ label start:
         o "No!!!!"
         scene buy with fade
         o "Wait... I can buy fudge myself!"
+        stop music fadeout 1.5
+        play sound "openmindaudio-podcast-outro-stinger-short-clean-end-cue-469091.mp3"
         o "Yes! I'm leaving right away!"
 
         
